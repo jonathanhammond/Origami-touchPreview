@@ -4,14 +4,15 @@ Touch Preview for Origami by facebook
 
 A clone of Spotify's Touch Preview UI for the prototyping tool Origami (by Facebook)
 
-https://www.youtube.com/watch?v=BriF9qxInAk
-
 For more examples of Facebook's Origami and Quartz Composer visit my porfolio at www.justaddmusicmedia.com
 
 Enjoy responsibly and build something awesome! (please email me and let me know how you used it, it would be good to see)
 
 Video Preview 
 https://vimeo.com/124755561
+
+Spotify's original touchPreview UI
+https://www.youtube.com/watch?v=BriF9qxInAk
 
 ![Patch Preview](./screenshots/code.jpg "Patch Preview")
 
