@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=BriF9qxInAk
 - Have fun!
 
 ## Dependencies
-Requires [Quartz Composer](http://adcdownload.apple.com/Developer_Tools/graphics_tools_for_xcode__xcode_6.1/graphicstools_for_xcode_6.1.dmg "Quartz Composer") and [Origami](http://facebook.github.io/origami/download/ "Origami") 
+Requires [Quartz Composer](https://developer.apple.com/downloads/download.action?path=Developer_Tools%2Fgraphics_tools_for_xcode__xcode_6.1%2Fgraphicstools_for_xcode_6.1.dmg "Quartz Composer") and [Origami](http://facebook.github.io/origami/download/ "Origami") 
 hOz OpenAL.plugin
 ## Known Issues
 
