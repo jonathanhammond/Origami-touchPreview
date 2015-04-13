@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=BriF9qxInAk
 ## How to Use
 - Clone this repo
 - Add hOz OpenAL.plugin to /Library/Graphics/Quartz Composer Plug-Ins
-- Open the TouchPreview.qtz files**
+- Open the TouchPreview.qtz file
 - Have fun!
 
 ## Dependencies
